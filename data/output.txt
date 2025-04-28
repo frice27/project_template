@@ -1,0 +1,10 @@
+Hello
+
+Hello world!
+This is a sample text file.
+
+
+   Name  Age   City
+0  Ivan   21   Kyiv
+1  Anna   22   Lviv
+2  Oleg   20  Odesa
